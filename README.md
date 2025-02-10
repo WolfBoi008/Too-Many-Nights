@@ -1,7 +1,8 @@
 # Archipelago Manual for Too Many Nights
 An Archipelago Manual for the FNaF fangame, Too Many Nights.
 
-## Unlockable Character Conditions
+## Notes
+### Unlockable Character Conditions
 - Henry: Beat a night as Michael, Elizabeth, Evan, and Cassidy
 - Gabriel: Get 2 penalties that affect Freddy
 - Jeremy: On night 3 or onward, get a power outage and survive
@@ -10,8 +11,7 @@ An Archipelago Manual for the FNaF fangame, Too Many Nights.
 - Fitzgerald: Beat night 5 while only picking the most-left enemies and penalties
 - Sally: Beat a night with Percy Poodle and Rowen Rat at max aggression
 - Cawthon: Beat Night 3 as every character
-
-## Other Notes
+### Other Notes
 - TBD
 
 ## Goals
