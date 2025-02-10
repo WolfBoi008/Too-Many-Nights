@@ -11,16 +11,19 @@ An Archipelago Manual for the FNaF fangame, Too Many Nights.
 - Sally: Beat a night with Percy Poodle and Rowen Rat at max aggression
 - Cawthon: Beat Night 3 as every character
 
-### Goals
+## Other Notes
+- TBD
+
+## Goals
 - Unlock Cawthon
 - Beat Night 5 as every character
 
-### Items
+## Items
 - Characters
 - Enemies
 - Progressive Nights
 
-### Checks
+## Checks
 - Beat Nights as Characters
 - Beat a Night with x Enemy Active (allowed to do these in Sandbox Mode if you value your sanity)
 - Unlocking Characters
