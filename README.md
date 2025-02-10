@@ -14,6 +14,7 @@ An Archipelago Manual for the FNaF fangame, Too Many Nights.
 ### Other Notes
 - Due to the nature of Fitzgerald's RNG-heavy gimmick and no way to do a complete reroll for free, she is excluded from the rule of "can only do nights with characters you've been given".
   - This means it's possible to complete "Beat a Night with x Active" Checks out of logic if you get characters you don't have yet while using her.
+- More TBD?
 
 ## Goals
 - Unlock Cawthon
