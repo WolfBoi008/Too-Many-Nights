@@ -1,0 +1,11 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "TooManyNights",
+  "creator": "WolfBoi008",
+  "filler_item_name": "Faz-Coins",
+  "death_link": true,
+  "starting_items": [
+    {"item_categories": ["Starting Characters"], "random": 1},
+    {"item_categories": ["Enemies"], "random": 1}
+  ]
+}

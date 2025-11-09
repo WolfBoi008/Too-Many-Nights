@@ -1,0 +1,66 @@
+{
+  "Starting Checks": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Michael": {
+    "connects_to": [],
+    "requires": "|Michael|"
+  },
+  "Elizabeth": {
+    "connects_to": [],
+    "requires": "|Elizabeth|"
+  },
+  "Evan": {
+    "connects_to": [],
+    "requires": "|Evan|"
+  },
+  "Cassidy": {
+    "connects_to": [],
+    "requires": "|Cassidy|"
+  },
+  "Henry": {
+    "connects_to": [],
+    "requires": "|Henry|"
+  },
+  "Gabriel": {
+    "connects_to": [],
+    "requires": "|Gabriel|"
+  },
+  "Jeremy": {
+    "connects_to": [],
+    "requires": "|Jeremy|"
+  },
+  "Susie": {
+    "connects_to": [],
+    "requires": "|Susie|"
+  },
+  "Fritz": {
+    "connects_to": [],
+    "requires": "|Fritz|"
+  },
+  "Fitzgerald": {
+    "connects_to": [],
+    "requires": "|Fitzgerald|"
+  },
+  "Sally": {
+    "connects_to": [],
+    "requires": "|Sally|"
+  },
+  "Cawthon": {
+    "connects_to": [],
+    "requires": "|Cawthon|"
+  },
+  "Enemy-Specific": {
+    "connects_to": [],
+    "requires": "|@Characters:1|"
+  },
+  "Unlockable Characters": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Challenges": {
+    "connects_to": [],
+    "requires": []
+  }
+}

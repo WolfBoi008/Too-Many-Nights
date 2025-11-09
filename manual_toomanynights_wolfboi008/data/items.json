@@ -1,0 +1,522 @@
+[
+  {
+    "count": 1,
+    "name": "Freddy",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bonnie",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chica",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Foxy",
+    "category": [
+      "Enemies"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Mangle",
+    "category": [
+      "Enemies"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Caroline",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lizzy",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "BB",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sparky",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Percy Poodle",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rowen Rat",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Maple",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Noelle",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Melatonin",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lydia",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Amber",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "CG",
+    "category": [
+      "Enemies"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DSOM",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ro-Bee",
+    "category": [
+      "Enemies"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alexis",
+    "category": [
+      "Enemies"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Onion",
+    "category": [
+      "Enemies"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "T-G3n3r1c",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kyden",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Ink Monstrosity",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Robo-Popcakes",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Entity-12",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mura",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[[THE RINGMASTER]]",
+    "category": [
+      "Enemies"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Entity",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "No V.A",
+    "category": [
+      "Enemies"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Moldy",
+    "category": [
+      "Enemies"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rita Rabbit",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Coral",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shrimp",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Worm",
+    "category": [
+      "Enemies"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cyle and Bobb",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Magi/Maji",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mallory",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Roy",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Silly",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bop",
+    "category": [
+      "Enemies"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Venus",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Syrex",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ellie",
+    "category": [
+      "Enemies"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Amo",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Swagman",
+    "category": [
+      "Enemies", "Early Risers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Michael",
+    "category": [
+      "Starting Characters", "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Elizabeth",
+    "category": [
+      "Starting Characters", "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Evan",
+    "category": [
+      "Starting Characters", "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cassidy",
+    "category": [
+      "Starting Characters", "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Henry",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gabriel",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jeremy",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Susie",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fritz",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fitzgerald",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sally",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cawthon",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Progressive Night",
+    "category": [
+      "Nights"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Force Doors for 15 Seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": "1",
+    "name": "Open Doors for 15 Seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": "1",
+    "name": "Force Flashlight for 15 Seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": "1",
+    "name": "No Flashlight for 15 Seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": "1",
+    "name": "Force Cameras for 15 Seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": "1",
+    "name": "No Cameras for 15 Seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  }
+]

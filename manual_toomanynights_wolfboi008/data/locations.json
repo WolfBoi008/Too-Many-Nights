@@ -1,0 +1,1482 @@
+[
+  {
+    "name": "Night 1 - Michael",
+    "region": "Michael",
+    "category": [
+      "Michael's Nights"
+    ],
+    "requires": "|@Early Risers:6|"
+  },
+  {
+    "name": "Night 2 - Michael",
+    "region": "Michael",
+    "category": [
+      "Michael's Nights"
+    ],
+    "requires": "|Progressive Night:1| AND |@Early Risers:16|"
+  },
+  {
+    "name": "Night 3 - Michael",
+    "region": "Michael",
+    "category": [
+      "Michael's Nights"
+    ],
+    "requires": "|Progressive Night:2| AND |@Enemies:26|"
+  },
+  {
+    "name": "Night 4 - Michael",
+    "region": "Michael",
+    "category": [
+      "Michael's Nights"
+    ],
+    "requires": "|Progressive Night:3| AND |@Enemies:36|"
+  },
+  {
+    "name": "Night 5 - Michael",
+    "region": "Michael",
+    "category": [
+      "Michael's Nights"
+    ],
+    "requires": "|Progressive Night:4| AND |@Enemies:46|"
+  },
+  {
+    "name": "Night 1 - Elizabeth",
+    "region": "Elizabeth",
+    "category": [
+      "Elizabeth's Nights"
+    ],
+    "requires": "|@Early Risers:6|"
+  },
+  {
+    "name": "Night 2 - Elizabeth",
+    "region": "Elizabeth",
+    "category": [
+      "Elizabeth's Nights"
+    ],
+    "requires": "|Progressive Night:1| AND |@Early Risers:16|"
+  },
+  {
+    "name": "Night 3 - Elizabeth",
+    "region": "Elizabeth",
+    "category": [
+      "Elizabeth's Nights"
+    ],
+    "requires": "|Progressive Night:2| AND |@Enemies:26|"
+  },
+  {
+    "name": "Night 4 - Elizabeth",
+    "region": "Elizabeth",
+    "category": [
+      "Elizabeth's Nights"
+    ],
+    "requires": "|Progressive Night:3| AND |@Enemies:36|"
+  },
+  {
+    "name": "Night 5 - Elizabeth",
+    "region": "Elizabeth",
+    "category": [
+      "Elizabeth's Nights"
+    ],
+    "requires": "|Progressive Night:4| AND |@Enemies:46|"
+  },
+  {
+    "name": "Night 1 - Evan",
+    "region": "Evan",
+    "category": [
+      "Evan's Nights"
+    ],
+    "requires": "|@Early Risers:6|"
+  },
+  {
+    "name": "Night 2 - Evan",
+    "region": "Evan",
+    "category": [
+      "Evan's Nights"
+    ],
+    "requires": "|Progressive Night:1| AND |@Early Risers:16|"
+  },
+  {
+    "name": "Night 3 - Evan",
+    "region": "Evan",
+    "category": [
+      "Evan's Nights"
+    ],
+    "requires": "|Progressive Night:2| AND |@Enemies:26|"
+  },
+  {
+    "name": "Night 4 - Evan",
+    "region": "Evan",
+    "category": [
+      "Evan's Nights"
+    ],
+    "requires": "|Progressive Night:3| AND |@Enemies:36|"
+  },
+  {
+    "name": "Night 5 - Evan",
+    "region": "Evan",
+    "category": [
+      "Evan's Nights"
+    ],
+    "requires": "|Progressive Night:4| AND |@Enemies:46|"
+  },
+  {
+    "name": "Night 1 - Cassidy",
+    "region": "Cassidy",
+    "category": [
+      "Cassidy's Nights"
+    ],
+    "requires": "|@Early Risers:6|"
+  },
+  {
+    "name": "Night 2 - Cassidy",
+    "region": "Cassidy",
+    "category": [
+      "Cassidy's Nights"
+    ],
+    "requires": "|Progressive Night:1| AND |@Early Risers:16|"
+  },
+  {
+    "name": "Night 3 - Cassidy",
+    "region": "Cassidy",
+    "category": [
+      "Cassidy's Nights"
+    ],
+    "requires": "|Progressive Night:2| AND |@Enemies:26|"
+  },
+  {
+    "name": "Night 4 - Cassidy",
+    "region": "Cassidy",
+    "category": [
+      "Cassidy's Nights"
+    ],
+    "requires": "|Progressive Night:3| AND |@Enemies:36|"
+  },
+  {
+    "name": "Night 5 - Cassidy",
+    "region": "Cassidy",
+    "category": [
+      "Cassidy's Nights"
+    ],
+    "requires": "|Progressive Night:4| AND |@Enemies:46|"
+  },
+  {
+    "name": "Night 1 - Henry",
+    "region": "Henry",
+    "category": [
+      "Henry's Nights"
+    ],
+    "requires": "|@Early Risers:6|"
+  },
+  {
+    "name": "Night 2 - Henry",
+    "region": "Henry",
+    "category": [
+      "Henry's Nights"
+    ],
+    "requires": "|Progressive Night:1| AND |@Early Risers:16|"
+  },
+  {
+    "name": "Night 3 - Henry",
+    "region": "Henry",
+    "category": [
+      "Henry's Nights"
+    ],
+    "requires": "|Progressive Night:2| AND |@Enemies:26|"
+  },
+  {
+    "name": "Night 4 - Henry",
+    "region": "Henry",
+    "category": [
+      "Henry's Nights"
+    ],
+    "requires": "|Progressive Night:3| AND |@Enemies:36|"
+  },
+  {
+    "name": "Night 5 - Henry",
+    "region": "Henry",
+    "category": [
+      "Henry's Nights"
+    ],
+    "requires": "|Progressive Night:4| AND |@Enemies:46|"
+  },
+  {
+    "name": "Night 1 - Gabriel",
+    "region": "Gabriel",
+    "category": [
+      "Gabriel's Nights"
+    ],
+    "requires": "|@Early Risers:6|"
+  },
+  {
+    "name": "Night 2 - Gabriel",
+    "region": "Gabriel",
+    "category": [
+      "Gabriel's Nights"
+    ],
+    "requires": "|Progressive Night:1| AND |@Early Risers:16|"
+  },
+  {
+    "name": "Night 3 - Gabriel",
+    "region": "Gabriel",
+    "category": [
+      "Gabriel's Nights"
+    ],
+    "requires": "|Progressive Night:2| AND |@Enemies:26|"
+  },
+  {
+    "name": "Night 4 - Gabriel",
+    "region": "Gabriel",
+    "category": [
+      "Gabriel's Nights"
+    ],
+    "requires": "|Progressive Night:3| AND |@Enemies:36|"
+  },
+  {
+    "name": "Night 5 - Gabriel",
+    "region": "Gabriel",
+    "category": [
+      "Gabriel's Nights"
+    ],
+    "requires": "|Progressive Night:4| AND |@Enemies:46|"
+  },
+  {
+    "name": "Night 1 - Jeremy",
+    "region": "Jeremy",
+    "category": [
+      "Jeremy's Nights"
+    ],
+    "requires": "|@Early Risers:6|"
+  },
+  {
+    "name": "Night 2 - Jeremy",
+    "region": "Jeremy",
+    "category": [
+      "Jeremy's Nights"
+    ],
+    "requires": "|Progressive Night:1| AND |@Early Risers:16|"
+  },
+  {
+    "name": "Night 3 - Jeremy",
+    "region": "Jeremy",
+    "category": [
+      "Jeremy's Nights"
+    ],
+    "requires": "|Progressive Night:2| AND |@Enemies:26|"
+  },
+  {
+    "name": "Night 4 - Jeremy",
+    "region": "Jeremy",
+    "category": [
+      "Jeremy's Nights"
+    ],
+    "requires": "|Progressive Night:3| AND |@Enemies:36|"
+  },
+  {
+    "name": "Night 5 - Jeremy",
+    "region": "Jeremy",
+    "category": [
+      "Jeremy's Nights"
+    ],
+    "requires": "|Progressive Night:4| AND |@Enemies:46|"
+  },
+  {
+    "name": "Night 1 - Susie",
+    "region": "Susie",
+    "category": [
+      "Susie's Nights"
+    ],
+    "requires": "|@Early Risers:6|"
+  },
+  {
+    "name": "Night 2 - Susie",
+    "region": "Susie",
+    "category": [
+      "Susie's Nights"
+    ],
+    "requires": "|Progressive Night:1| AND |@Early Risers:16|"
+  },
+  {
+    "name": "Night 3 - Susie",
+    "region": "Susie",
+    "category": [
+      "Susie's Nights"
+    ],
+    "requires": "|Progressive Night:2| AND |@Enemies:26|"
+  },
+  {
+    "name": "Night 4 - Susie",
+    "region": "Susie",
+    "category": [
+      "Susie's Nights"
+    ],
+    "requires": "|Progressive Night:3| AND |@Enemies:36|"
+  },
+  {
+    "name": "Night 5 - Susie",
+    "region": "Susie",
+    "category": [
+      "Susie's Nights"
+    ],
+    "requires": "|Progressive Night:4| AND |@Enemies:46|"
+  },
+  {
+    "name": "Night 1 - Fritz",
+    "region": "Fritz",
+    "category": [
+      "Fritz's Nights"
+    ],
+    "requires": "|@Early Risers:6|"
+  },
+  {
+    "name": "Night 2 - Fritz",
+    "region": "Fritz",
+    "category": [
+      "Fritz's Nights"
+    ],
+    "requires": "|Progressive Night:1| AND |@Early Risers:16|"
+  },
+  {
+    "name": "Night 3 - Fritz",
+    "region": "Fritz",
+    "category": [
+      "Fritz's Nights"
+    ],
+    "requires": "|Progressive Night:2| AND |@Enemies:26|"
+  },
+  {
+    "name": "Night 4 - Fritz",
+    "region": "Fritz",
+    "category": [
+      "Fritz's Nights"
+    ],
+    "requires": "|Progressive Night:3| AND |@Enemies:36|"
+  },
+  {
+    "name": "Night 5 - Fritz",
+    "region": "Fritz",
+    "category": [
+      "Fritz's Nights"
+    ],
+    "requires": "|Progressive Night:4| AND |@Enemies:46|"
+  },
+  {
+    "name": "Night 1 - Fitzgerald",
+    "region": "Fitzgerald",
+    "category": [
+      "Fitzgerald's Nights"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Night 2 - Fitzgerald",
+    "region": "Fitzgerald",
+    "category": [
+      "Fitzgerald's Nights"
+    ],
+    "requires": "|Progressive Night:1|"
+  },
+  {
+    "name": "Night 3 - Fitzgerald",
+    "region": "Fitzgerald",
+    "category": [
+      "Fitzgerald's Nights"
+    ],
+    "requires": "|Progressive Night:2|"
+  },
+  {
+    "name": "Night 4 - Fitzgerald",
+    "region": "Fitzgerald",
+    "category": [
+      "Fitzgerald's Nights"
+    ],
+    "requires": "|Progressive Night:3|"
+  },
+  {
+    "name": "Night 5 - Fitzgerald",
+    "region": "Fitzgerald",
+    "category": [
+      "Fitzgerald's Nights"
+    ],
+    "requires": "|Progressive Night:4|"
+  },
+  {
+    "name": "Night 1 - Sally",
+    "region": "Sally",
+    "category": [
+      "Sally's Nights"
+    ],
+    "requires": "|@Early Risers:6|"
+  },
+  {
+    "name": "Night 2 - Sally",
+    "region": "Sally",
+    "category": [
+      "Sally's Nights"
+    ],
+    "requires": "|Progressive Night:1| AND |@Early Risers:16|"
+  },
+  {
+    "name": "Night 3 - Sally",
+    "region": "Sally",
+    "category": [
+      "Sally's Nights"
+    ],
+    "requires": "|Progressive Night:2| AND |@Enemies:26|"
+  },
+  {
+    "name": "Night 4 - Sally",
+    "region": "Sally",
+    "category": [
+      "Sally's Nights"
+    ],
+    "requires": "|Progressive Night:3| AND |@Enemies:36|"
+  },
+  {
+    "name": "Night 5 - Sally",
+    "region": "Sally",
+    "category": [
+      "Sally's Nights"
+    ],
+    "requires": "|Progressive Night:4| AND |@Enemies:46|"
+  },
+  {
+    "name": "Night 1 - Cawthon",
+    "region": "Cawthon",
+    "category": [
+      "Cawthon's Nights"
+    ],
+    "requires": "|@Early Risers:6|"
+  },
+  {
+    "name": "Night 2 - Cawthon",
+    "region": "Cawthon",
+    "category": [
+      "Cawthon's Nights"
+    ],
+    "requires": "|Progressive Night:1| AND |@Early Risers:16|"
+  },
+  {
+    "name": "Night 3 - Cawthon",
+    "region": "Cawthon",
+    "category": [
+      "Cawthon's Nights"
+    ],
+    "requires": "|Progressive Night:2| AND |@Enemies:26|"
+  },
+  {
+    "name": "Night 4 - Cawthon",
+    "region": "Cawthon",
+    "category": [
+      "Cawthon's Nights"
+    ],
+    "requires": "|Progressive Night:3| AND |@Enemies:36|"
+  },
+  {
+    "name": "Night 5 - Cawthon",
+    "region": "Cawthon",
+    "category": [
+      "Cawthon's Nights"
+    ],
+    "requires": "|Progressive Night:4| AND |@Enemies:46|"
+  },
+  {
+    "name": "Beat a Night with Freddy Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Freddy|"
+  },
+  {
+    "name": "Beat a Night with Bonnie Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Bonnie|"
+  },
+  {
+    "name": "Beat a Night with Chica Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Chica|"
+  },
+  {
+    "name": "Beat a Night with Foxy Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Foxy|"
+  },
+  {
+    "name": "Beat a Night with The Mangle Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|The Mangle|"
+  },
+  {
+    "name": "Beat a Night with Caroline Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Caroline|"
+  },
+  {
+    "name": "Beat a Night with Lizzy Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Lizzy|"
+  },
+  {
+    "name": "Beat a Night with BB Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|BB|"
+  },
+  {
+    "name": "Beat a Night with Sparky Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Sparky|"
+  },
+  {
+    "name": "Beat a Night with Percy Poodle Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Percy Poodle|"
+  },
+  {
+    "name": "Beat a Night with Rowen Rat Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Rowen Rat|"
+  },
+  {
+    "name": "Beat a Night with Maple Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Maple|"
+  },
+  {
+    "name": "Beat a Night with Noelle Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Noelle|"
+  },
+  {
+    "name": "Beat a Night with Melatonin Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Melatonin|"
+  },
+  {
+    "name": "Beat a Night with Lydia Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Lydia|"
+  },
+  {
+    "name": "Beat a Night with Amber Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Amber|"
+  },
+  {
+    "name": "Beat a Night with CG Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|CG|"
+  },
+  {
+    "name": "Beat a Night with DSOM Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|DSOM|"
+  },
+  {
+    "name": "Beat a Night with Ro-Bee Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Ro-Bee|"
+  },
+  {
+    "name": "Beat a Night with Alexis Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Alexis|"
+  },
+  {
+    "name": "Beat a Night with Onion Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Onion|"
+  },
+  {
+    "name": "Beat a Night with T-G3n3r1c Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|T-G3n3r1c|"
+  },
+  {
+    "name": "Beat a Night with Kyden Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Kyden|"
+  },
+  {
+    "name": "Beat a Night with The Ink Monstrosity Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|The Ink Monstrosity|"
+  },
+  {
+    "name": "Beat a Night with Robo-Popcakes Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Robo-Popcakes|"
+  },
+  {
+    "name": "Beat a Night with Entity-12 Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Entity-12|"
+  },
+  {
+    "name": "Beat a Night with Mura Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Mura|"
+  },
+  {
+    "name": "Beat a Night with [[THE RINGMASTER]] Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|[[THE RINGMASTER]]|"
+  },
+  {
+    "name": "Beat a Night with The Entity Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|The Entity|"
+  },
+  {
+    "name": "Beat a Night with No V.A Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|No V.A|"
+  },
+  {
+    "name": "Beat a Night with Moldy Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Moldy|"
+  },
+  {
+    "name": "Beat a Night with Rita Rabbit Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Rita Rabbit|"
+  },
+  {
+    "name": "Beat a Night with Coral Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Coral|"
+  },
+  {
+    "name": "Beat a Night with Shrimp Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Shrimp|"
+  },
+  {
+    "name": "Beat a Night with Worm Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Worm|"
+  },
+  {
+    "name": "Beat a Night with Cyle and Bobb Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Cyle and Bobb|"
+  },
+  {
+    "name": "Beat a Night with Magi/Maji Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Magi/Maji|"
+  },
+  {
+    "name": "Beat a Night with Mallory Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Mallory|"
+  },
+  {
+    "name": "Beat a Night with Roy Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Roy|"
+  },
+  {
+    "name": "Beat a Night with Silly Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Silly|"
+  },
+  {
+    "name": "Beat a Night with Bop Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Bop|"
+  },
+  {
+    "name": "Beat a Night with Venus Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Venus|"
+  },
+  {
+    "name": "Beat a Night with Syrex Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Syrex|"
+  },
+  {
+    "name": "Beat a Night with Ellie Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Ellie|"
+  },
+  {
+    "name": "Beat a Night with Amo Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Amo|"
+  },
+  {
+    "name": "Beat a Night with Swagman Active",
+    "region": "Enemy-Specific",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Swagman|"
+  },
+  {
+    "name": "Unlock Henry",
+    "region": "Unlockable Characters",
+    "category": [
+      "Unlockable Characters"
+    ],
+    "requires": "|Michael| AND |Elizabeth| AND |Evan| AND |Cassidy| AND |@Early Risers:6|"
+  },
+  {
+    "name": "Unlock Gabriel",
+    "region": "Unlockable Characters",
+    "category": [
+      "Unlockable Characters"
+    ],
+    "requires": "(|Progressive Night:2| AND |@Enemies:26|) OR (|Gabriel| AND |@Early Risers:6|) AND |Freddy|"
+  },
+  {
+    "name": "Unlock Jeremy",
+    "region": "Unlockable Characters",
+    "category": [
+      "Unlockable Characters"
+    ],
+    "requires": "|Progressive Night:2| AND |@Enemies:26|"
+  },
+  {
+    "name": "Unlock Susie",
+    "region": "Unlockable Characters",
+    "category": [
+      "Unlockable Characters"
+    ],
+    "requires": "((|Progressive Night:1| AND |@Early Risers:16|) OR (|Cassidy| OR |Susie| OR |Evan| OR |Sally|)) AND |Chica|"
+  },
+  {
+    "name": "Unlock Fritz",
+    "region": "Unlockable Characters",
+    "category": [
+      "Unlockable Characters"
+    ],
+    "requires": "|Progressive Night:3| AND |@Enemies:36|"
+  },
+  {
+    "name": "Unlock Fitzgerald",
+    "region": "Unlockable Characters",
+    "category": [
+      "Unlockable Characters"
+    ],
+    "requires": "|Progressive Night:4| AND |@Enemies:46|"
+  },
+  {
+    "name": "Unlock Sally",
+    "region": "Unlockable Characters",
+    "category": [
+      "Unlockable Characters"
+    ],
+    "requires": "(|Progressive Night:4| AND |@Enemies:46|) OR ((|Cassidy| OR |Susie|) AND |@Early Risers:6|) AND |Percy Poodle| AND |Rowen Rat|"
+  },
+  {
+    "name": "Unlock Cawthon",
+    "region": "Unlockable Characters",
+    "category": [
+      "Unlockable Characters"
+    ],
+    "requires": "|Michael| AND |Elizabeth| AND |Evan| AND |Cassidy| AND |Henry| AND |Gabriel| AND |Jeremy| AND |Susie| AND |Fritz| AND |Fitzgerald| AND |Sally| AND |Progressive Night:2| AND |@Enemies:26|"
+  },
+  {
+    "name": "Cawthon",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Michael| AND |Elizabeth| AND |Evan| AND |Cassidy| AND |Henry| AND |Gabriel| AND |Jeremy| AND |Susie| AND |Fritz| AND |Fitzgerald| AND |Sally| AND |Progressive Night:2| AND |@Enemies:26|",
+    "victory": true
+  },
+  {
+    "name": "Night 5 All Characters",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|@Characters:12| AND |Progressive Night:4| AND |@Enemies:46|",
+    "victory": true
+  },
+  {
+    "name": "Search Party 1 - odank8604",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Easy"
+    ],
+    "requires": "|Caroline| AND |BB| AND |Maple| AND |Noelle| AND |Entity-12| AND |Mura| AND |The Entity| AND |Swagman|"
+  },
+  {
+    "name": "Entranced - hyhydraulics",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Easy"
+    ],
+    "requires": "|Amber| AND |T-G3n3r1c| AND |Kyden|"
+  },
+  {
+    "name": "Bedroom 2 from FNaW3 - larantula_l",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Easy"
+    ],
+    "requires": "|Freddy| AND |Alexis|"
+  },
+  {
+    "name": "Dynamic Duos: DSOM and Magi - kizaco",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Easy"
+    ],
+    "requires": "|DSOM| AND |Magi/Maji|"
+  },
+  {
+    "name": "Lost Child in Walmart - ravenmoor.",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Easy"
+    ],
+    "requires": "|BB| AND |No V.A|"
+  },
+  {
+    "name": "Room Service - odank8604",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Normal"
+    ],
+    "requires": "|Percy Poodle| AND |DSOM| AND |The Ink Monstrosity| AND |Mallory| AND |Bop|"
+  },
+  {
+    "name": "Spotlight On Me - odank8604",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Normal"
+    ],
+    "requires": "|BB| AND |Percy Poodle| AND |The Ink Monstrosity| AND |Moldy| AND |Rita Rabbit| AND |Coral| AND |Roy| AND |Silly|"
+  },
+  {
+    "name": "I'm Blue - odank8604",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Normal"
+    ],
+    "requires": "|BB| AND |DSOM| AND |Coral| AND |Magi/Maji| AND |Ellie|"
+  },
+  {
+    "name": "Power Struggle - justanentity173",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Normal"
+    ],
+    "requires": "|Caroline| AND |CG| AND |The Ink Monstrosity| AND |No V.A| AND |Bop|"
+  },
+  {
+    "name": "Go Fish! - simon2478",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Normal"
+    ],
+    "requires": "|Percy Poodle| AND |Rowen Rat| AND |Amber| AND |DSOM| AND |The Ink Monstrosity| AND |No V.A|"
+  },
+  {
+    "name": "Hard Challenge Test 1",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Hard"
+    ],
+    "requires": "|Onion| AND |Bop| AND |BB| AND |Coral|"
+  },
+  {
+    "name": "Hard Challenge Test 2",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Hard"
+    ],
+    "requires": "|Onion| AND |Bop| AND |BB| AND |Coral|"
+  },
+  {
+    "name": "Hard Challenge Test 3",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Hard"
+    ],
+    "requires": "|Onion| AND |Bop| AND |BB| AND |Coral|"
+  },
+  {
+    "name": "Hard Challenge Test 4",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Hard"
+    ],
+    "requires": "|Onion| AND |Bop| AND |BB| AND |Coral|"
+  },
+  {
+    "name": "Hard Challenge Test 5",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Hard"
+    ],
+    "requires": "|Onion| AND |Bop| AND |BB| AND |Coral|"
+  },
+  {
+    "name": "Insane Challenge Test 1",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Insane"
+    ],
+    "requires": "|Caroline| AND |No V.A| AND |Onion|"
+  },
+  {
+    "name": "Insane Challenge Test 2",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Insane"
+    ],
+    "requires": "|Caroline| AND |No V.A| AND |Onion|"
+  },
+  {
+    "name": "Insane Challenge Test 3",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Insane"
+    ],
+    "requires": "|Caroline| AND |No V.A| AND |Onion|"
+  },
+  {
+    "name": "Insane Challenge Test 4",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Insane"
+    ],
+    "requires": "|Caroline| AND |No V.A| AND |Onion|"
+  },
+  {
+    "name": "Insane Challenge Test 5",
+    "region": "Challenges",
+    "category": [
+      "Challenges - Insane"
+    ],
+    "requires": "|Caroline| AND |No V.A| AND |Onion|"
+  },
+  {
+    "name": "Freddy Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Freddy|"
+  },
+  {
+    "name": "Bonnie Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Bonnie|"
+  },
+  {
+    "name": "Chica Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Chica|"
+  },
+  {
+    "name": "Foxy Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Foxy|"
+  },
+  {
+    "name": "The Mangle Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|The Mangle|"
+  },
+  {
+    "name": "Caroline Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Caroline|"
+  },
+  {
+    "name": "Lizzy Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Lizzy|"
+  },
+  {
+    "name": "BB Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|BB|"
+  },
+  {
+    "name": "Sparky Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Sparky|"
+  },
+  {
+    "name": "Percy Poodle Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Percy Poodle|"
+  },
+  {
+    "name": "Rowen Rat Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Rowen Rat|"
+  },
+  {
+    "name": "Maple Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Maple|"
+  },
+  {
+    "name": "Noelle Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Noelle|"
+  },
+  {
+    "name": "Melatonin Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Melatonin|"
+  },
+  {
+    "name": "Lydia Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Lydia|"
+  },
+  {
+    "name": "Amber Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Amber|"
+  },
+  {
+    "name": "CG Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|CG|"
+  },
+  {
+    "name": "DSOM Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|DSOM|"
+  },
+  {
+    "name": "Ro-Bee Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Ro-Bee|"
+  },
+  {
+    "name": "Alexis Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Alexis|"
+  },
+  {
+    "name": "Onion Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Onion|"
+  },
+  {
+    "name": "T-G3n3r1c Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|T-G3n3r1c|"
+  },
+  {
+    "name": "Kyden Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Kyden|"
+  },
+  {
+    "name": "The Ink Monstrosity Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|The Ink Monstrosity|"
+  },
+  {
+    "name": "Robo-Popcakes Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Robo-Popcakes|"
+  },
+  {
+    "name": "Entity-12 Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Entity-12|"
+  },
+  {
+    "name": "Mura Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Mura|"
+  },
+  {
+    "name": "[[THE RINGMASTER]] Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|[[THE RINGMASTER]]|"
+  },
+  {
+    "name": "The Entity Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|The Entity|"
+  },
+  {
+    "name": "No V.A Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|No V.A|"
+  },
+  {
+    "name": "Moldy Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Moldy|"
+  },
+  {
+    "name": "Rita Rabbit Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Rita Rabbit|"
+  },
+  {
+    "name": "Coral Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Coral|"
+  },
+  {
+    "name": "Shrimp Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Shrimp|"
+  },
+  {
+    "name": "Worm Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Worm|"
+  },
+  {
+    "name": "Cyle Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Cyle and Bobb|"
+  },
+  {
+    "name": "Bobb Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Cyle and Bobb|"
+  },
+  {
+    "name": "Magi/Maji Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Magi/Maji|"
+  },
+  {
+    "name": "Magi/Maji's Puppet Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Magi/Maji|"
+  },
+  {
+    "name": "Mallory Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Mallory|"
+  },
+  {
+    "name": "Roy Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Roy|"
+  },
+  {
+    "name": "Silly Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Silly|"
+  },
+  {
+    "name": "Bop Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Bop|"
+  },
+  {
+    "name": "Venus Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Venus|"
+  },
+  {
+    "name": "Syrex Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Syrex|"
+  },
+  {
+    "name": "Ellie Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Ellie|"
+  },
+  {
+    "name": "Amo Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Amo|"
+  },
+  {
+    "name": "Demon Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Amo|"
+  },
+  {
+    "name": "Swagman Jumpscare",
+    "region": "Enemy-Specific",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Swagman|"
+  }
+]

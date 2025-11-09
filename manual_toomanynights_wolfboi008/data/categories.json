@@ -1,0 +1,23 @@
+{
+    "Starting Characters": {
+        "hidden": true
+    },
+    "Early Risers": {
+        "hidden": true
+    },
+    "Challenges - Easy": {
+        "yaml_option": ["difficultyselect"]
+    },
+    "Challenges - Normal": {
+        "yaml_option": ["difficultyselect"]
+    },
+    "Challenges - Hard": {
+        "yaml_option": ["difficultyselect"]
+    },
+    "Challenges - Insane": {
+        "yaml_option": ["difficultyselect"]
+    },
+    "Jumpscaresanity": {
+        "yaml_option": ["jumpscaresanity"]
+    }
+}
