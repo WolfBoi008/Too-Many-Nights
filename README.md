@@ -31,4 +31,7 @@ An Archipelago Manual for the FNaF fangame, Too Many Nights.
 - Beat Nights as Characters
 - Beat a Night with x Enemy Active (allowed to do these in Sandbox Mode if you value your sanity)
 - Unlocking Characters
-- Completing Challenges (option)
+
+## Options
+- Challenges: Add Fan-Made Challenges as Checks.
+  - The files for these can be found on the main page for the Manual, where you can see the folder of the Manual's files should be another folder with all of the Challenge .txt files, seperated by their Difficulty.
