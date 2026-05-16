@@ -1,0 +1,16 @@
+SANDBOXVERSION:3;
+MAXAI:8;
+HOURLENGTH:15;
+ADDITIONALPOWER:-30;
+MASKHP:3;
+DOORHEAT:1;
+LOCATION:Freddy Fazbear's Family Diner;
+BB:3;
+Dsom:3;
+Coral:8;
+Magi:5;
+Ellie:2;
+Aggressive BB:1;
+Blinding:1;
+ACTIVEITEM:0;
+PUPPALCHORES:25;

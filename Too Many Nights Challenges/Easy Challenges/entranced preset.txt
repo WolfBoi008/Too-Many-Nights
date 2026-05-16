@@ -1,0 +1,16 @@
+SANDBOXVERSION:3;
+MAXAI:5;
+HOURLENGTH:15;
+ADDITIONALPOWER:-80;
+MASKHP:3;
+DOORHEAT:1;
+LOCATION:Freddy Fazbear's Family Diner;
+T-G3n3r1c:5;
+Kyden:5;
+Amber:5;
+Glitched:1;
+Indecisive:1;
+Crazed Robot:1;
+Resourceful Cameras:1;
+ACTIVEITEM:0;
+PUPPALCHORES:25;

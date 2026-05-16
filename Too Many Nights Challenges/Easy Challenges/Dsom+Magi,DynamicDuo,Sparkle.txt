@@ -1,0 +1,17 @@
+SANDBOXVERSION:3;
+MAXAI:5;
+HOURLENGTH:15;
+ADDITIONALPOWER:-80;
+MASKHP:3;
+DOORHEAT:1.5;
+LOCATION:Freddy Fazbear's Family Diner;
+Magi:1;
+Dsom:2;
+Mid-Night Motivation:2;
+5 AM Push:1;
+Reach Around:1;
+Do It Myself:1;
+Quiet Dsom:1;
+Sparked:5;
+ACTIVEITEM:0;
+PUPPALCHORES:25;

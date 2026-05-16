@@ -1,0 +1,25 @@
+SANDBOXVERSION:3;
+MAXAI:5;
+HOURLENGTH:15;
+ADDITIONALPOWER:0;
+MASKHP:3;
+DOORHEAT:1;
+LOCATION:Freddy Fazbear's Family Diner;
+BB:5;
+Percy Poodle:2;
+The Ink Monstrosity:5;
+Moldy:5;
+Rita Rabbit:5;
+Coral:3;
+Roy:2;
+Silly:3;
+Aggressive Percy:10;
+Stubborn:3;
+Aggressive Moldy:1;
+Aggressive Rita:2;
+Cheeky Rabbit:1;
+Blinding:1;
+Aggressive Roy:1;
+Aggressive Silly:1:
+ACTIVEITEM:0;
+PUPPALCHORES:25;
