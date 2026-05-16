@@ -27,13 +27,3 @@ def anyClassLevel(state: CollectionState, player: int, level: str):
 def requiresMelee():
     """Returns a requires string that checks if the player has unlocked the tank."""
     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
-
-def canReachCategory(world: World, multiworld: MultiWorld, state: CollectionState, player: int, category: str, count: str):
-    """Can the player reach `count` number of locations with category `category`?"""
-    reachable = 0
-    for location in multiworld.get_locations(player):
-        cats = world.location_name_to_location[location.name].get("category", {})
-        if category in cats:
-            if state.can_reach_location(location.name, player):
-                reachable += 1
-    return reachable >= int(count)

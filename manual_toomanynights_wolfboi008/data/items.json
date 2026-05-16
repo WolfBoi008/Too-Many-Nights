@@ -472,7 +472,7 @@
     "progression": true
   },
   {
-    "count": "1",
+    "count": "0",
     "name": "Force Doors for 15 Seconds",
     "category": [
       "Traps"
@@ -480,7 +480,7 @@
     "trap": true
   },
   {
-    "count": "1",
+    "count": "0",
     "name": "Open Doors for 15 Seconds",
     "category": [
       "Traps"
@@ -488,7 +488,7 @@
     "trap": true
   },
   {
-    "count": "1",
+    "count": "0",
     "name": "Force Flashlight for 15 Seconds",
     "category": [
       "Traps"
@@ -496,7 +496,7 @@
     "trap": true
   },
   {
-    "count": "1",
+    "count": "0",
     "name": "No Flashlight for 15 Seconds",
     "category": [
       "Traps"
@@ -504,7 +504,7 @@
     "trap": true
   },
   {
-    "count": "1",
+    "count": "0",
     "name": "Force Cameras for 15 Seconds",
     "category": [
       "Traps"
@@ -512,7 +512,7 @@
     "trap": true
   },
   {
-    "count": "1",
+    "count": "0",
     "name": "No Cameras for 15 Seconds",
     "category": [
       "Traps"
